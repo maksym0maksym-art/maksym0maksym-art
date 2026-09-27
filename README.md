@@ -162,6 +162,7 @@
 
 <div align="center">
 
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-111111?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Maybiosto)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maksym0maksym-art)
 
 </div>
